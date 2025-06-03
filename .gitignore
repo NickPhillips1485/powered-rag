@@ -1,1 +1,9 @@
+# Don't commit virtual environment
 .venv/
+
+# Don't commit API keys
+.env
+
+# Don't commit the data files
+data/
+
